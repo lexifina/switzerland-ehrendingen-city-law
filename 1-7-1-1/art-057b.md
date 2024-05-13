@@ -1,0 +1,3 @@
+# § 57b Organisatorisches
+1 Die Mitarbeitenden tragen gemeinsam mit der vorgesetzten Stelle die Verantwortung für eine optimale Planung und Organisation der Arbeit. Die vorgesetzte Stelle und die Mitarbeitenden achten darauf, dass der Informationsfluss gewährleistet ist und der Kontakt zum Team, zu den Vorgesetzten usw. sowie die Erreichbarkeit und insbesondere der service public (Schalter-/Telefondienst) sichergestellt sind.
+2 Personen die im Homeoffice arbeiten, kennzeichnen die entsprechende Zeit in ihrem Outlookkalender als «Homeoffice». Damit ist die grundsätzliche Verfügbarkeit trotz Abwesenheit am Arbeitsplatz ersichtlich.

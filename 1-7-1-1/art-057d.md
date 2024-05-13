@@ -1,0 +1,2 @@
+# § 57d Arbeitszeit und Zeiterfassung
+1 Homeoffice wird im Rahmen der geltenden Arbeitszeitregelung geleistet und findet während den üblichen Arbeitszeiten statt. Die Arbeitszeit wird nach den gleichen Regeln erfasst wie beim Arbeiten in der Gemeindeverwaltung. Die geleistete Arbeitszeit im Homeoffice wird in der Zeiterfassung unter «Homeoffice» verbucht. Die Vorgaben des Arbeitsgesetzes, namentlich die maximale tägliche Arbeitszeit, vorgeschriebene Ruhezeiten und Pausen, Regelungen bezüglich Nacht- und Sonntagsarbeit, sind einzuhalten.
