@@ -1,4 +1,4 @@
-# Entschädigungsansätze Amtsperiode 2022/2025
-Vom 24.01.2022
+# Entschädigungsansätze Amtsperiode 2026/2029
+Vom 05.01.2026
 Der Gemeinderat,
 beschliesst:
