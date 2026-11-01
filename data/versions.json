@@ -1,0 +1,573 @@
+{
+ "country": "CH-AG-EHRENDINGEN",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 19,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.1-1/versions/177",
+     "sha256": "ca3b8f378f20c2b767c88bf7e07a67ef1a94adc2a6d6f8be6d5baabe983ceba0"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 19,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "85ead173eae7a9e557c2ef8acbda48d73c490806881013745f163eb895725131"
+    }
+   ]
+  },
+  {
+   "slug": "1-3-1-informations-datenschutz-archiv-und-gebuhrenreglement",
+   "short": "Informations-, Datenschutz-, Archiv- und Gebührenreglement",
+   "title": "Reglement über die Information der Öffentlichkeit, den Datenschutz, das Archivwesen und die Gebühren (RIDAG)",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.3-1",
+   "versions": [
+    {
+     "from": "2016-05-09",
+     "units": 26,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.3-1",
+     "sha256": "12b24cd9117e7fd552a6044892c45b13938a326dbb4c622c5ef1a45b2fc8855b"
+    }
+   ]
+  },
+  {
+   "slug": "1-3-2",
+   "short": "SRS 1.3-2",
+   "title": "Kommunikationskonzept",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.3-2",
+   "versions": [
+    {
+     "from": "2016-08-22",
+     "units": 30,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.3-2",
+     "sha256": "f09bdf006452289b939fd66c9fad284f0cc90c5f0f6616a092b61b2286e2cf4a"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-gkr",
+   "short": "GKR",
+   "title": "Geschäfts- und Kompetenzreglement",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 38,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.6-1/versions/182",
+     "sha256": "828d7fee659ac376195e51692820e124b3a76862eed7c96f1167c0cf2026c809"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 38,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "2c3c11dd1aeb734b4bab47666e90d384f8a3e3f84384c0b67ffacf20e305b2ed"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-2-grgl",
+   "short": "GRGL",
+   "title": "Geschäftsreglement der Geschäftsleitung",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.6-2",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 15,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.6-2",
+     "sha256": "c9a58dacfdf8eb96d4a53d4a5fb9d687df5bb414cfb74154603494cf18452733"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-3-entschadigungsreglement",
+   "short": "Entschädigungsreglement",
+   "title": "Reglement über die Entschädigungen der Behörden, Kommissionen und Funktionäre",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.6-3",
+   "versions": [
+    {
+     "from": "2023-10-30",
+     "units": 31,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.6-3/versions/185",
+     "sha256": "1553861ab4f5bfbc571a0e26564dfe224965922f35cc60d3d082dbe50c83d190"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 31,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.6-3",
+     "sha256": "14f3c88f555932e6988b412bcc00fb37baf3dbbf8456ab9bc736c512cd622a36"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1",
+   "short": "SRS 1.7-1",
+   "title": "Personalhandbuch",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 63,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "9996ee44c5dc13544a5eb1e84094b0f8d35b6ff93e210c5664f0b47b59fdc55e"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1",
+   "short": "SRS 1.7-1.1",
+   "title": "Ausführungsbestimmungen zum Personalhandbuch",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.7-1.1",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 69,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.7-1.1",
+     "sha256": "7937e7f625b172106d3356a967060191e5ba07cf57877abcc71d4cdafc094ce9"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-2-betriebliche-grundbildung",
+   "short": "betriebliche Grundbildung",
+   "title": "Konzept für die Ausbildung von Lernenden und Praktikanten der Gemeinde Ehrendingen nach Bildungsverordnung 2023",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.7-1.2",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 51,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.7-1.2",
+     "sha256": "0ae90946086302a3f965393f05af901dd94f7b3e08838462bbcf45c7ffa3f4c9"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-3",
+   "short": "SRS 1.7-1.3",
+   "title": "Entschädigungsansätze Amtsperiode 2026/2029",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.7-1.3",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 2,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.7-1.3/versions/145",
+     "sha256": "a2abbdb3ceadbbb92eb0f7a30f74d1709b54395052a5c8e4983571ab350498df"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 2,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.7-1.3",
+     "sha256": "90ded028eb8e1dd487e4e2905973a68d8595e389380adbe67b11e285b8280f4f"
+    }
+   ]
+  },
+  {
+   "slug": "1-8-1-ortsburgerreglement",
+   "short": "Ortsbürgerreglement",
+   "title": "Reglement über den Erwerb des Ortsbürgerrechts der Gemeinde Ehrendingen",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.8-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 7,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.8-1",
+     "sha256": "582bbd31106e5de946e580fe3af67fb2638c0fcbe5b036466278aabe68f0ae94"
+    }
+   ]
+  },
+  {
+   "slug": "1-8-2",
+   "short": "SRS 1.8-2",
+   "title": "Übertragung der Befugnis an den Gemeinderat zum Erwerb, zur Veräusserung und zum Tausch von Grundstücken und Liegenschaften der Ortsbürgergemeinde sowie die Einräumung von Rechten an solchen bis zum Betrage von CHF 100'000.00 pro Amtsperiode",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.8-2",
+   "versions": [
+    {
+     "from": "2008-07-09",
+     "units": 4,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.8-2",
+     "sha256": "c072b2bf0fdec495d5d3f27da4625cb51fa38397778bf0f759512c6dd1ef049e"
+    }
+   ]
+  },
+  {
+   "slug": "1-8-3",
+   "short": "SRS 1.8-3",
+   "title": "Reglement über die Errichtung eines Waldfonds",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/1.8-3",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/1.8-3",
+     "sha256": "0aec92a178e6b7b1a5fd79bc52beca8109f47c76426c00cefde35a2b69d16541"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-elternbeitragsreglement",
+   "short": "Elternbeitragsreglement",
+   "title": "Reglement über die Beteiligung der Gemeinde Ehrendingen an den Elternbeiträgen bei Tagesstrukturen Ehrendingen, Verein Chinderhuus Surbtal, übrigen Kindertagesstätten, Tagesfamilien, Musikschule Ehrendingen sowie Dyskalkulietherapie",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 19,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "6226a377e074257d3c387281577052e0035e7fa3196be6e3e3da2f8a85c22d6a"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-2",
+   "short": "SRS 4.1-2",
+   "title": "Qualitätsstandards für Kindertagesstätten, Tagesstrukturen und Tagesfamilien",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/4.1-2",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 26,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/4.1-2",
+     "sha256": "5102a370953256fe57050da2a31d0f370e1e43010f47b2c24e8164d76de627f9"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3",
+   "short": "SRS 4.1-3",
+   "title": "Betriebskonzept und ‑reglement der Tagesstrukturen",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/4.1-3",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 50,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/4.1-3",
+     "sha256": "1271d9c308e6a7d492c19bfc0f06aaf1a44510ea4742b02fde45879e7aadb1b7"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-4",
+   "short": "SRS 4.1-4",
+   "title": "Ernährungskonzept Tagesstrukturen",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/4.1-4",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 17,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/4.1-4",
+     "sha256": "5af679d32a3ea7016256016e4c9e359cd9a9dd1efa3ca7009f853d7d38063cd6"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-5",
+   "short": "SRS 4.1-5",
+   "title": "Pädagogisches Konzept Tagesstrukturen",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/4.1-5",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 30,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/4.1-5",
+     "sha256": "46494a8eb102cdc1131e6f06b6ab4de875787b193e45b4d19dbaa6c24a034f95"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-6",
+   "short": "SRS 4.1-6",
+   "title": "Verhaltenskodex in Bezug auf sexuelle Gewalt für die Mitarbeitenden der Tagesstrukturen",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/4.1-6",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/4.1-6",
+     "sha256": "92697882dc56c79a54a4daa668c67e1a1e50c6a42602d6978c78a3049da19ca3"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-7",
+   "short": "SRS 4.1-7",
+   "title": "Sicherheitskonzept Tagesstrukturen",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/4.1-7",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 21,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/4.1-7",
+     "sha256": "2d945b9cca90a2cb7a0790a20d8f631caf09560d96e71eea975b59f7ab5222e3"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1",
+   "short": "SRS 4.3-1",
+   "title": "Allgemeines Reglement Musikschule",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/4.3-1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 35,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/4.3-1",
+     "sha256": "494085a1827663b5f16751aa988077978c82debac270b687a492b13677b28dc0"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-2",
+   "short": "SRS 4.3-2",
+   "title": "Reglement über das Anstellungsverhältnis der Musiklehrpersonen und des Musikschulleiters",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/4.3-2",
+   "versions": [
+    {
+     "from": "2007-03-01",
+     "units": 16,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/4.3-2",
+     "sha256": "4d0d14ee645961669ec7bb60927be9370a28c54c38a86bd6c50a1a8f056d6fa2"
+    }
+   ]
+  },
+  {
+   "slug": "4-8-1-beitragsreglement-vereine",
+   "short": "Beitragsreglement Vereine",
+   "title": "Konzept über die Beiträge der Gemeinde Ehrendingen an die Vereine",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/4.8-1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 11,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/4.8-1",
+     "sha256": "4aae7caf4913d2df6a67de2d8d022592d3bd1c0105fa4a590211cedf61752e6c"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1",
+   "short": "SRS 5.1-1",
+   "title": "Polizeireglement der Gemeinden Baden, Birmenstorf, Ehrendingen, Ennetbaden, Freienwil, Gebenstorf, Obersiggenthal, Untersiggenthal und Würenlingen",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 47,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/5.1-1/versions/207",
+     "sha256": "2b51184fe30eac240e39a43eccf8eca899ad4f949e9d4dacee46e0c01e4c52d7"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 47,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "8ae43d09d7658cce0d0ea6746682447f74be9c1e99554429d6d80f773bd02a13"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Feuerwehrreglement Feuerwehr Ehrendingen-Freienwil",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "2008-02-04",
+     "units": 19,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "c23d34214794c76bf74c6126bfaff7d4a1bbcd9844ab21465ff127d937fd7233"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1-1-einsatzkostentarif",
+   "short": "Einsatzkostentarif",
+   "title": "Tarif über die Entschädigung von Einsatzkosten im Feuerwehrwesen",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/5.5-1.1",
+   "versions": [
+    {
+     "from": "1997-08-01",
+     "units": 4,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/5.5-1.1/versions/193",
+     "sha256": "0263345426d96fa595e3dd71b2cf3c80f087261a635d944c49aae52e517c1693"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 10,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/5.5-1.1",
+     "sha256": "3f92bb8d7ff2634954e2c7cd9b262ece140cf5187d346e9837fc89127b626079"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Verwaltungsreglement Schiessanlage Sackhölzli Ober-Ehrendingen",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "1997-05-26",
+     "units": 26,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "5e87dc313a6ac8f797475f3cf81ef3f488b9227e75d1be315b1864eddf6dae03"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Reglement über die Benutzung von Räumen und Sportplätzen der Gemeinde Ehrendingen",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 40,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "3b1379834a782813c0936cb232661ba55e980d7bdc2af4c50d2a55edba284317"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Bau- und Nutzungsordnung",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2010-11-22",
+     "units": 61,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "7656f9be36cd8221db3ff6b0fe2705153b6e6badaf162ff63f18b656aa651c95"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Gebührenreglement zur Bau- und Nutzungsordnung (BNO)",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 19,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "adf7641ecbe46bed2b685ca91b8819ac9a179e9db74aad03620c0712de25e744"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1",
+   "short": "SRS 7.4.3-1",
+   "title": "Abwasserreglement",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/7.4.3-1",
+   "versions": [
+    {
+     "from": "2006-07-26",
+     "units": 36,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/7.4.3-1",
+     "sha256": "932d24524480fb12f6224e54e2ac25bf1e9adb2bac875429802898d906b3abb6"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4-1",
+   "short": "SRS 7.4.4-1",
+   "title": "Abfallreglement",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/7.4.4-1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 40,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/7.4.4-1",
+     "sha256": "697a68243da28ad2a93a96da8d6b68ede557a75ea1a6f3391797f104a24b83a6"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-1-rfsa",
+   "short": "RFSA",
+   "title": "Reglement für die Finanzierung von Strassen und Anlagen der Abwasserbeseitigung",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/7.6-1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 31,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/7.6-1",
+     "sha256": "543b6d63ac3642159a734207eba5175c3a5c99448caca2ad2e93c13f76b09860"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-2",
+   "short": "SRS 7.6-2",
+   "title": "Reglement für die Erhebung von Strassenbaubeiträgen",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/7.6-2",
+   "versions": [
+    {
+     "from": "1999-07-12",
+     "units": 5,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/7.6-2",
+     "sha256": "984675a10c4f0eb732506873e8494b1b4e9739021a6905d23cef50e457ab19e7"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-3",
+   "short": "SRS 7.6-3",
+   "title": "Winterdienstkonzept",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/7.6-3",
+   "versions": [
+    {
+     "from": "2008-11-10",
+     "units": 11,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/7.6-3",
+     "sha256": "b7e5e52b4f66658253f797f2d82c3d4eceeb77d1d88f69a2962df46484c21479"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Parkraumkonzept",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2020-09-30",
+     "units": 14,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "9090800c647b81030a81741f06af80804f0361fd2695872ecacbd2519a605765"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Bestattungs- und Friedhofreglement",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 48,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "fa5b87c92d4f980affb09f3a4b5942966dfe0ea9f127a9bac0f6482082398775"
+    }
+   ]
+  },
+  {
+   "slug": "9-2-1",
+   "short": "SRS 9.2-1",
+   "title": "Reglement über die Sicherung und den Unterhalt der landwirtschaftlichen Infrastrukturanlagen im Gemeindegebiet Ehrendingen",
+   "url": "https://ehrendingen.tlex.ch/app/de/texts_of_law/9.2-1",
+   "versions": [
+    {
+     "from": "2010-07-21",
+     "units": 30,
+     "source_url": "https://ehrendingen.tlex.ch/api/de/texts_of_law/9.2-1",
+     "sha256": "7258cb640043de6450559664f4462d7e33c483703075f079767ad1ef5b80698d"
+    }
+   ]
+  }
+ ]
+}

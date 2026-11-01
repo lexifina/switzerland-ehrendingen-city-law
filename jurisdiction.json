@@ -1,0 +1,11 @@
+{
+  "path": "ch-ag-ehrendingen",
+  "code": "CH-AG-EHRENDINGEN",
+  "name": "Ehrendingen (city)",
+  "level": "municipality",
+  "parent": "ch-ag",
+  "repo": "https://github.com/lexifina/switzerland-ehrendingen-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (38 acts, 44 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}
