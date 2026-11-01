@@ -1,0 +1,53 @@
+{
+ "parts": {
+  "10-verfassung.json": {
+   "acts": [
+    "1-1-1"
+   ],
+   "sha256": "42a3443b22647cedbc4ea823d99aa84e8ae2f778364db4ab56db5fa92045a12d"
+  },
+  "40-verordnungen-1.json": {
+   "acts": [
+    "1-3-1-informations-datenschutz-archiv-und-gebuhrenreglement",
+    "1-3-2",
+    "1-6-1-gkr",
+    "1-6-2-grgl",
+    "1-6-3-entschadigungsreglement",
+    "1-7-1",
+    "1-7-1-1",
+    "1-7-1-2-betriebliche-grundbildung",
+    "1-7-1-3",
+    "1-8-1-ortsburgerreglement",
+    "1-8-2",
+    "1-8-3",
+    "4-1-1-elternbeitragsreglement",
+    "4-1-2",
+    "4-1-3",
+    "4-1-4",
+    "4-1-5",
+    "4-1-6",
+    "4-1-7",
+    "4-3-1",
+    "4-3-2",
+    "4-8-1-beitragsreglement-vereine",
+    "5-1-1",
+    "5-5-1",
+    "5-5-1-1-einsatzkostentarif",
+    "6-6-1",
+    "6-6-2",
+    "7-1-1",
+    "7-1-2",
+    "7-4-3-1",
+    "7-4-4-1",
+    "7-6-1-rfsa",
+    "7-6-2",
+    "7-6-3",
+    "7-7-1",
+    "8-2-1",
+    "9-2-1"
+   ],
+   "sha256": "4142909afa16986934e7b9631d16b7778afcbbe3ca914fd275e371a6d331fa4a"
+  }
+ },
+ "schema": 1
+}
