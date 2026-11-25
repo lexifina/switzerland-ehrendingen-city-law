@@ -8,8 +8,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Ehrendingen: systematic collection (ehrendingen.tlex.ch) · `switzerland/aargau/ehrendingen/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 12:03 UTC**.
-- Acts held here: 38; current at the source: 38; changed at the source since the version held here: 3; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 05:40 UTC**.
+- Acts held here: 38; current at the source: 38; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 6 of the 38 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 3 (held here, no longer at the source: 3); with no reason: 0.
 
