@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Ehrendingen: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-25 05:40 UTC, Ehrendingen: Systematische Sammlung (ehrendingen.tlex.ch): 18 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 3 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-26 05:37 UTC, Ehrendingen: Systematische Sammlung (ehrendingen.tlex.ch): 20 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 3 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Ehrendingen: Systematische Sammlung (ehrendingen.tlex.ch)](https://ehrendingen.tlex.ch/) | `<act>/` | täglich | 2026-11-25 05:40 UTC | keine Änderung | beobachtet |
+| [Ehrendingen: Systematische Sammlung (ehrendingen.tlex.ch)](https://ehrendingen.tlex.ch/) | `<act>/` | täglich | 2026-11-26 05:37 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-26 05:37](checks/2026-11.md#ch-lexwork-ehrendingen-city-20261126t053708z) | lexwork-ehrendingen-city | 20 | 0 | 0 | 0 | 3 (0) | keine Änderung | — |
 | [2026-11-25 05:40](checks/2026-11.md#ch-lexwork-ehrendingen-city-20261125t054027z) | lexwork-ehrendingen-city | 18 | 0 | 0 | 0 | 3 (0) | keine Änderung | — |
 | [2026-11-24 12:03](checks/2026-11.md#ch-lexwork-ehrendingen-city-20261124t120302z) | lexwork-ehrendingen-city | 30 | 3 | 0 | 0 | 3 (0) | Änderungen gefunden | — |
 

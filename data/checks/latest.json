@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:26:45Z",
+ "generated": "2026-11-26T07:18:04Z",
  "latest": {
   "lexwork-ehrendingen-city|switzerland/aargau/ehrendingen/acts": {
    "attempt": 1,
@@ -23,11 +23,11 @@
     "repo": 38,
     "source_in_scope": 38
    },
-   "check_id": "ch-lexwork-ehrendingen-city-20261125T054027Z",
+   "check_id": "ch-lexwork-ehrendingen-city-20261126T053708Z",
    "commits": null,
    "corpus": "switzerland/aargau/ehrendingen/acts",
    "error": null,
-   "finished": "2026-11-25T05:40:50Z",
+   "finished": "2026-11-26T05:37:32Z",
    "flags": [],
    "gap": 3,
    "note": "ehrendingen.tlex.ch: index of 41 acts (41 in force); held 38; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 3 published only as PDF; 6 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 18,
+   "requests": 20,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "41 entries, 41 in force (ehrendingen.tlex.ch)",
    "source": "lexwork-ehrendingen-city",
-   "started": "2026-11-25T05:40:27Z",
+   "started": "2026-11-26T05:37:08Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -68,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 6,
-    "versions_checked": 7,
+    "versions_checked": 6,
     "versions_differ": 0
    }
   }
